@@ -8,7 +8,6 @@
 *  Snakes and Ladders
 *  Bus Routes
 
----
 
 ## 2. Grid / Matrix BFS
 
@@ -18,7 +17,6 @@
 *  Flood Fill
 *  Surrounded Regions
 
----
 
 ## 3. Multi-Source BFS
 
@@ -28,7 +26,6 @@
 *  As Far from Land as Possible
 *  Map of Highest Peak
 
----
 
 ## 4. Topological BFS (Kahn’s Algorithm)
 
@@ -38,7 +35,6 @@
 *  Parallel Courses
 *  Find Eventual Safe States
 
----
 
 ## 5. State-Space BFS
 
@@ -48,7 +44,6 @@
 *  Minimum Moves to Reach Target with Rotations
 *  Shortest Path Visiting All Nodes
 
----
 
 ## 6. BFS on Trees (Level Order Traversal)
 
@@ -58,7 +53,6 @@
 *  Average of Levels in Binary Tree
 *  Maximum Level Sum of a Binary Tree
 
----
 
 ## 7. BFS on Arrays / Jump Graphs
 
