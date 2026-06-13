@@ -8,7 +8,7 @@
 * Minimum Fuel Cost to Report to the Capital (LeetCode 2477)
 * Check If a String Is a Valid Sequence from Root to Leaves (LeetCode 1430)
 
----
+
 
 ###  Pattern 2: Finding a Valid Ordering (Standard / Multi-Level)
 
@@ -18,7 +18,7 @@
 * Sequence Reconstruction (LeetCode 444)
 * Find All Possible Recipes from Given Supplies (LeetCode 2115)
 
----
+
 
 ###  Pattern 3: Lexicographically Smallest / Constrained Ordering
 
@@ -28,7 +28,7 @@
 * Single-Threaded CPU (LeetCode 1834)
 * Task Scheduler (LeetCode 621)
 
----
+
 
 ###  Pattern 4: Shortest / Longest Paths on a DAG (Graph DP)
 
